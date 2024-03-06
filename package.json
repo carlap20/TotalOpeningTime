@@ -1,0 +1,14 @@
+{
+  "name": "prueba-tecnica",
+  "version": "1.0.0",
+  "description": "Prueba Tecnica",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "Carla Pavía",
+  "license": "ISC",
+  "dependencies": {
+    "luxon": "^3.4.4"
+  }
+}
