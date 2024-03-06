@@ -82,6 +82,7 @@ To run this program, you need to have the node_modules package installed. You ca
 ```
 
 ## Example Output
+```json
 [
   {
     "openFrom": "09:20",
@@ -96,5 +97,6 @@ To run this program, you need to have the node_modules package installed. You ca
     "openTo": "23:12"
   }
 ]
+```
 
 This output represents the optimal opening schedules that maximize the total business opening time while considering the processing cost of the algorithm.
