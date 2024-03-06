@@ -17,6 +17,7 @@ To run this program, you need to have the node_modules package installed. You ca
 > npm i
 
 ## Example Input
+```json
 {
   "id": 1,
   "name": "Business TEST",
@@ -78,6 +79,7 @@ To run this program, you need to have the node_modules package installed. You ca
     }
   ]
 }
+```
 
 ## Example Output
 [
